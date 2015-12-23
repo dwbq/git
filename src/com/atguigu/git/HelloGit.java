@@ -7,5 +7,6 @@ public class HelloGit {
 		System.out.println("服务器提交02");
 		System.out.println("服务器提交03");
 		System.out.println("response to lical");
+		System.out.println("response to lical02");	
 	}
 }
